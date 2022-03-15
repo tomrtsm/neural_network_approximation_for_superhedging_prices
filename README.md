@@ -10,4 +10,4 @@ The paper can be found here: https://www.fm.mathematik.uni-muenchen.de/download/
 
 - lstm_trinomial_relu.ipynb contains the code for the trinomial model with the squared relu loss function.
 
-All weights that are provided can be found in the folder weights. Note that, only some weights presented in the paper are provided here.
+We provide some weights which can be found in the folder weights.
